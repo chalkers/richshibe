@@ -1,7 +1,7 @@
-richshibe
+Rich Shibe
 =========
 
-[Rich Shibe](http://richshibe.org/) is an iOS Dogecoin Price Checker App in Bitcoin and US Dollar.
+[Rich Shibe](http://richshibe.org/) is an iOS Dogecoin Price Checker App in Bitcoin and US Dollar. Rich Shibe is a universal app.
 
 ![Rich Shibe Demo](http://richshibe.org/rich-shibe-demo.gif)
 
