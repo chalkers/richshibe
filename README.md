@@ -14,9 +14,9 @@ Rich Shibe
 
 ## Much Donate
 
-DOGE: [DE4evasNRfcvzX85W4FR2cXhf5bztn4gv9](dogecoin://DE4evasNRfcvzX85W4FR2cXhf5bztn4gv9)  
-BTC: [1DR15aSjPJnTRpvFSi2BsTrt7s9DiawgEf](bitcoin://1DR15aSjPJnTRpvFSi2BsTrt7s9DiawgEf)  
-LTC: [LUsCDYhgBJwEaGadJvTSsRnJNfHfY8Wv4i](litecoin://LUsCDYhgBJwEaGadJvTSsRnJNfHfY8Wv4i)  
+DOGE: DE4evasNRfcvzX85W4FR2cXhf5bztn4gv9
+BTC: 1DR15aSjPJnTRpvFSi2BsTrt7s9DiawgEf
+LTC: LUsCDYhgBJwEaGadJvTSsRnJNfHfY8Wv4i
 
 The MIT License (MIT)
 =========
