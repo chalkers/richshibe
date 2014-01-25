@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		494F3B8818910C0B00FD994A /* SMSRSDisclaimerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 494F3B8718910C0B00FD994A /* SMSRSDisclaimerViewController.m */; };
 		49536557186A34AE00778728 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49536556186A34AE00778728 /* Foundation.framework */; };
 		49536559186A34AE00778728 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49536558186A34AE00778728 /* CoreGraphics.framework */; };
 		4953655B186A34AE00778728 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4953655A186A34AE00778728 /* UIKit.framework */; };
@@ -22,6 +23,16 @@
 		4953657B186A34AE00778728 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4953655A186A34AE00778728 /* UIKit.framework */; };
 		49536583186A34AE00778728 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 49536581186A34AE00778728 /* InfoPlist.strings */; };
 		49536585186A34AE00778728 /* Rich_ShibeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 49536584186A34AE00778728 /* Rich_ShibeTests.m */; };
+		49536590186A358B00778728 /* coin@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4953658E186A358B00778728 /* coin@2x.png */; };
+		49536591186A358B00778728 /* coin.png in Resources */ = {isa = PBXBuildFile; fileRef = 4953658F186A358B00778728 /* coin.png */; };
+		49EE932D1892F80E0055DB71 /* icon29.png in Resources */ = {isa = PBXBuildFile; fileRef = 49EE93261892F80E0055DB71 /* icon29.png */; };
+		49EE932E1892F80E0055DB71 /* icon152.png in Resources */ = {isa = PBXBuildFile; fileRef = 49EE93271892F80E0055DB71 /* icon152.png */; };
+		49EE932F1892F80E0055DB71 /* icon120.png in Resources */ = {isa = PBXBuildFile; fileRef = 49EE93281892F80E0055DB71 /* icon120.png */; };
+		49EE93301892F80E0055DB71 /* icon80.png in Resources */ = {isa = PBXBuildFile; fileRef = 49EE93291892F80E0055DB71 /* icon80.png */; };
+		49EE93311892F80E0055DB71 /* icon76.png in Resources */ = {isa = PBXBuildFile; fileRef = 49EE932A1892F80E0055DB71 /* icon76.png */; };
+		49EE93321892F80E0055DB71 /* icon58.png in Resources */ = {isa = PBXBuildFile; fileRef = 49EE932B1892F80E0055DB71 /* icon58.png */; };
+		49EE93331892F80E0055DB71 /* icon40.png in Resources */ = {isa = PBXBuildFile; fileRef = 49EE932C1892F80E0055DB71 /* icon40.png */; };
+		9146EE98E52646D4B4CF03CD /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 964316DE50C740DDAC0E9069 /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +46,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		494F3B8618910C0B00FD994A /* SMSRSDisclaimerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSRSDisclaimerViewController.h; sourceTree = "<group>"; };
+		494F3B8718910C0B00FD994A /* SMSRSDisclaimerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSRSDisclaimerViewController.m; sourceTree = "<group>"; };
 		49536553186A34AE00778728 /* Rich Shibe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rich Shibe.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		49536556186A34AE00778728 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		49536558186A34AE00778728 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -55,6 +68,17 @@
 		49536580186A34AE00778728 /* Rich ShibeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Rich ShibeTests-Info.plist"; sourceTree = "<group>"; };
 		49536582186A34AE00778728 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		49536584186A34AE00778728 /* Rich_ShibeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Rich_ShibeTests.m; sourceTree = "<group>"; };
+		4953658E186A358B00778728 /* coin@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "coin@2x.png"; sourceTree = "<group>"; };
+		4953658F186A358B00778728 /* coin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coin.png; sourceTree = "<group>"; };
+		49EE93261892F80E0055DB71 /* icon29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon29.png; sourceTree = "<group>"; };
+		49EE93271892F80E0055DB71 /* icon152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon152.png; sourceTree = "<group>"; };
+		49EE93281892F80E0055DB71 /* icon120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon120.png; sourceTree = "<group>"; };
+		49EE93291892F80E0055DB71 /* icon80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon80.png; sourceTree = "<group>"; };
+		49EE932A1892F80E0055DB71 /* icon76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon76.png; sourceTree = "<group>"; };
+		49EE932B1892F80E0055DB71 /* icon58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon58.png; sourceTree = "<group>"; };
+		49EE932C1892F80E0055DB71 /* icon40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon40.png; sourceTree = "<group>"; };
+		92185FA38006404D9A7165C8 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
+		964316DE50C740DDAC0E9069 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +89,7 @@
 				49536559186A34AE00778728 /* CoreGraphics.framework in Frameworks */,
 				4953655B186A34AE00778728 /* UIKit.framework in Frameworks */,
 				49536557186A34AE00778728 /* Foundation.framework in Frameworks */,
+				9146EE98E52646D4B4CF03CD /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -88,6 +113,7 @@
 				4953657E186A34AE00778728 /* Rich ShibeTests */,
 				49536555186A34AE00778728 /* Frameworks */,
 				49536554186A34AE00778728 /* Products */,
+				92185FA38006404D9A7165C8 /* Pods.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -107,6 +133,7 @@
 				49536558186A34AE00778728 /* CoreGraphics.framework */,
 				4953655A186A34AE00778728 /* UIKit.framework */,
 				49536578186A34AE00778728 /* XCTest.framework */,
+				964316DE50C740DDAC0E9069 /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -122,6 +149,8 @@
 				4953656F186A34AE00778728 /* SMSRSViewController.m */,
 				49536571186A34AE00778728 /* Images.xcassets */,
 				4953655D186A34AE00778728 /* Supporting Files */,
+				494F3B8618910C0B00FD994A /* SMSRSDisclaimerViewController.h */,
+				494F3B8718910C0B00FD994A /* SMSRSDisclaimerViewController.m */,
 			);
 			path = "Rich Shibe";
 			sourceTree = "<group>";
@@ -129,6 +158,15 @@
 		4953655D186A34AE00778728 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				49EE93261892F80E0055DB71 /* icon29.png */,
+				49EE93271892F80E0055DB71 /* icon152.png */,
+				49EE93281892F80E0055DB71 /* icon120.png */,
+				49EE93291892F80E0055DB71 /* icon80.png */,
+				49EE932A1892F80E0055DB71 /* icon76.png */,
+				49EE932B1892F80E0055DB71 /* icon58.png */,
+				49EE932C1892F80E0055DB71 /* icon40.png */,
+				4953658E186A358B00778728 /* coin@2x.png */,
+				4953658F186A358B00778728 /* coin.png */,
 				4953655E186A34AE00778728 /* Rich Shibe-Info.plist */,
 				4953655F186A34AE00778728 /* InfoPlist.strings */,
 				49536562186A34AE00778728 /* main.m */,
@@ -162,9 +200,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 49536588186A34AE00778728 /* Build configuration list for PBXNativeTarget "Rich Shibe" */;
 			buildPhases = (
+				CE06815A774441A68BEDBD9E /* Check Pods Manifest.lock */,
 				4953654F186A34AE00778728 /* Sources */,
 				49536550186A34AE00778728 /* Frameworks */,
 				49536551186A34AE00778728 /* Resources */,
+				22C60B04D6C948EA92F336BC /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -203,6 +243,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Secret Monkey Science";
 				TargetAttributes = {
+					49536552186A34AE00778728 = {
+						DevelopmentTeam = J2DB6A4JCR;
+					};
 					49536576186A34AE00778728 = {
 						TestTargetID = 49536552186A34AE00778728;
 					};
@@ -232,10 +275,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49EE932D1892F80E0055DB71 /* icon29.png in Resources */,
+				49EE93311892F80E0055DB71 /* icon76.png in Resources */,
 				4953656D186A34AE00778728 /* Main_iPad.storyboard in Resources */,
+				49EE93321892F80E0055DB71 /* icon58.png in Resources */,
 				49536572186A34AE00778728 /* Images.xcassets in Resources */,
+				49536591186A358B00778728 /* coin.png in Resources */,
+				49EE93331892F80E0055DB71 /* icon40.png in Resources */,
+				49EE93301892F80E0055DB71 /* icon80.png in Resources */,
 				4953656A186A34AE00778728 /* Main_iPhone.storyboard in Resources */,
+				49536590186A358B00778728 /* coin@2x.png in Resources */,
 				49536561186A34AE00778728 /* InfoPlist.strings in Resources */,
+				49EE932E1892F80E0055DB71 /* icon152.png in Resources */,
+				49EE932F1892F80E0055DB71 /* icon120.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,6 +301,39 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		22C60B04D6C948EA92F336BC /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CE06815A774441A68BEDBD9E /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		4953654F186A34AE00778728 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -256,6 +341,7 @@
 			files = (
 				49536563186A34AE00778728 /* main.m in Sources */,
 				49536567186A34AE00778728 /* SMSRSAppDelegate.m in Sources */,
+				494F3B8818910C0B00FD994A /* SMSRSDisclaimerViewController.m in Sources */,
 				49536570186A34AE00778728 /* SMSRSViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -390,26 +476,34 @@
 		};
 		49536589186A34AE00778728 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 92185FA38006404D9A7165C8 /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Rich Shibe/Rich Shibe-Prefix.pch";
 				INFOPLIST_FILE = "Rich Shibe/Rich Shibe-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "F8FED7BC-0A43-47F4-92B8-84D4DD3DF6DA";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
 		};
 		4953658A186A34AE00778728 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 92185FA38006404D9A7165C8 /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Rich Shibe/Rich Shibe-Prefix.pch";
 				INFOPLIST_FILE = "Rich Shibe/Rich Shibe-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "F8FED7BC-0A43-47F4-92B8-84D4DD3DF6DA";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -475,6 +569,7 @@
 				4953658A186A34AE00778728 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4953658B186A34AE00778728 /* Build configuration list for PBXNativeTarget "Rich ShibeTests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +578,7 @@
 				4953658D186A34AE00778728 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
